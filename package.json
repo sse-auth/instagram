@@ -1,22 +1,22 @@
 {
-  "name": "@sse-auth/repotem",
-  "version": "1.0.0",
+  "name": "@sse-auth/instagram",
+  "version": "2.0.0",
   "description": "",
   "main": "dist/index.js",
-  "types": "dist/",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sse-auth/repotem.git"
+    "url": "git+https://github.com/sse-auth/instagram.git"
   },
   "author": "SSE World",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sse-auth/repotem/issues"
+    "url": "https://github.com/sse-auth/instagram/issues"
   },
-  "homepage": "https://github.com/sse-auth/repotem#readme",
+  "homepage": "https://github.com/sse-auth/instagram#readme",
   "dependencies": {
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
